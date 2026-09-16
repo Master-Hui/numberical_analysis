@@ -7,6 +7,7 @@
 *这是一段斜体*
 
 ~这些是被删除的文字~
+
 我的<sub>下标</sub>
 
 我的<sup>上标</sup>
@@ -22,7 +23,7 @@ import numpy as np
 
 import torch
 
-a = np.array([1,1],[2,2])
+a = np.array([[1,1],[2,2]])
 
 a.T
 ```
