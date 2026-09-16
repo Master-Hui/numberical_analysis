@@ -1,3 +1,5 @@
+#test Broyden method for solving nonlinear equations
+
 import numpy as np
 
 A = np.array([[8.0, 1.0],
