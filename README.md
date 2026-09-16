@@ -30,4 +30,8 @@ a.T
 
 我将链接一个网站：[google](https://google.com)
 
+![pictures](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## 数值分析习题答案及实验仓库
+:+1:
+:+1:
